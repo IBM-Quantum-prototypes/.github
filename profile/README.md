@@ -11,7 +11,7 @@ Quantum prototypes offer the opportunity to interact with the codebase as a rese
 
 ## Available Prototypes
 
-Click [here](https://github.com/IBM-Quantum-Prototypes/.github/blob/main/profile/prototypes.md) to see a list of available and upcoming prototypes.
+Check out our [list of available and upcoming prototypes](https://github.com/IBM-Quantum-Prototypes/.github/blob/main/profile/prototypes.md).
 
 
 ## Citing Prototypes
