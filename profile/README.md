@@ -6,6 +6,7 @@ Quantum prototypes offer the opportunity to interact with the codebase as a rese
 
 - Open an issue on the repository
 - Start a conversation on the GitHub Discussions board within the repository
+- Fill out our survey (linked to from the repository) 
 
 
 ## Available Prototypes
