@@ -1,6 +1,9 @@
 # Quantum Prototypes
 
-_Quantum Prototypes_ are Qiskit-compatible software packages based on quantum algorithms and applications developed at IBM Quantum. They are made available to you during the development phase to give you early access to cutting-edge research.
+_Quantum Prototypes_ are [Qiskit]-compatible software packages based on quantum algorithms and applications developed at [IBM Quantum]. They are made available to you during the development phase to give you early access to cutting-edge research.
+
+[Qiskit]: https://github.com/Qiskit
+[IBM Quantum]: https://www.ibm.com/quantum-computing/
 
 Quantum prototypes offer the opportunity to interact with the codebase as a researcher or developer and engage with other users. If you would like to share your feedback, you can
 
