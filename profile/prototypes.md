@@ -1,3 +1,5 @@
+# Available and upcoming prototypes
+
 |Prototype | Paper | Description |
 | ------ | ------ | ------ |
 | (_Upcoming_) Entanglement Forging | [arXiv:2104.10220](https://arxiv.org/abs/2104.10220) | Simulation of chemical and physical systems |
