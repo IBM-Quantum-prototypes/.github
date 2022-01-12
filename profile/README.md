@@ -14,7 +14,7 @@ Quantum prototypes offer the opportunity to interact with the codebase as a rese
 
 ## Available Prototypes
 
-Check out our [list of available and upcoming prototypes](prototypes.md#available-and-upcoming-prototypes).
+Check out our [list of available and upcoming prototypes](/profile/prototypes.md#available-and-upcoming-prototypes).
 
 
 ## Citing Prototypes
