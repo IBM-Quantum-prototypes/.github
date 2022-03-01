@@ -22,7 +22,7 @@ Check out our [list of available and upcoming prototypes](/profile/prototypes.md
 
 ## Resources
 
-- Announcement on Qiskit Medium
+- [Announcement on Qiskit Medium](https://medium.com/qiskit/try-out-the-latest-advances-in-quantum-computing-with-ibm-quantum-prototypes-11f51124cb61)
 - [YouTube Channel](https://www.youtube.com/channel/UCpUDa0glLT8WVq2IbazZX7g)
 
 ## Citing Prototypes
