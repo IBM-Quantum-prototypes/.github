@@ -20,6 +20,10 @@ Feedback from users like you will help us improve the prototypes, and may even i
 
 Check out our [list of available and upcoming prototypes](/profile/prototypes.md#available-and-upcoming-prototypes).
 
+## Resources
+
+- Announcement on Qiskit Medium
+- [YouTube Channel](https://www.youtube.com/channel/UCpUDa0glLT8WVq2IbazZX7g)
 
 ## Citing Prototypes
 
