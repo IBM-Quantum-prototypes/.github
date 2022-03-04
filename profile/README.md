@@ -1,6 +1,6 @@
 # Quantum prototypes
 
-_Prototypes_ is a collaboration between developers and researchers at [IBM Quantum] that gives users access to prototypes from cutting-edge research in areas like quantum simulation and machine learning. These software packages are built on top of, and may eventually be integrated into, [Qiskit]. 
+_Prototypes_ is a collaboration between developers and researchers at [IBM Quantum] that gives users access to prototypes from cutting-edge research in areas like quantum simulation and machine learning. These software packages are built on top of, and may eventually be integrated into, the [Qiskit] SDK. They are a contribution as part of the Qiskit community.
 
 It can take a long time for new quantum computing techniques to make their way from original research to usable software. To help you get access to these tools faster, we are making them available earlier in the development cycle. Each prototype will be accompanied by a set of resources and documentation to guide you in applying new capabilities to your own research or industry applications, and you'll be able to engage with us and other users along the way. 
 
