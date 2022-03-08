@@ -18,8 +18,8 @@ Feedback from users like you will help us improve the prototypes, and may even i
 
 ## Available prototypes
 
-- [Quantum Kernel Trainer](https://github.com/qiskit-community/quantum-kernel-training)
-- [Entanglement Forging](https://github.com/qiskit-community/entanglement-forging)
+- [Quantum Kernel Trainer](https://github.com/qiskit-community/prototype-quantum-kernel-training)
+- [Entanglement Forging](https://github.com/qiskit-community/prototype-entanglement-forging)
 
 Also, check out upcoming prototypes [here](/profile/prototypes.md#available-and-upcoming-prototypes).
 
